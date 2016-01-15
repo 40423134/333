@@ -10,17 +10,17 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
-<v t="amd.20150919102209.1" a="E"><vh>使用工具</vh>
+<v t="amd.20150915153206.1"><vh>專案說明</vh>
+<v t="amd.20150919102209.1"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -29,18 +29,28 @@
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 <v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
-</v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh></v>
+<v t="1111.20160115113954.1"><vh>@edit 40423134_cp_w1.md</vh></v>
+<v t="1111.20160115114004.1"><vh>@edit 40423134_cp_w2.md</vh></v>
+<v t="1111.20160115114010.1"><vh>@edit 40423134_cp_w3.md</vh></v>
+<v t="1111.20160115114016.1"><vh>@edit 40423134_cp_w4.md</vh></v>
+<v t="1111.20160115114022.1"><vh>@edit 40423134_cp_w5.md</vh></v>
+<v t="1111.20160115114037.1"><vh>@edit 40423134_cp_w6.md</vh></v>
+<v t="1111.20160115114044.1"><vh>@edit 40423134_cp_w7.md</vh></v>
+<v t="1111.20160115114055.1"><vh>@edit 40423134_cp_w8.md</vh></v>
+<v t="1111.20160115114101.1"><vh>@edit 40423134_cp_w9.md</vh></v>
+<v t="1111.20160115114108.1"><vh>@edit 40423134_cp_w11.md</vh></v>
+<v t="1111.20160115114117.1"><vh>@edit 40423134_cp_w12.md</vh></v>
+<v t="1111.20160115114122.1"><vh>@edit 40423134_cp_w14.md</vh></v>
+<v t="1111.20160115114130.1"><vh>@edit 40423134_cp_w15.md</vh></v>
+<v t="1111.20160115114136.1"><vh>@edit 40423134_cp_w16.md</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -284,7 +294,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -491,6 +501,20 @@
 </v>
 </v>
 </v>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="1111.20160115113531.1"><vh>@edit 40423134_cp_w1_p.html</vh></v>
+<v t="1111.20160115113539.1"><vh>@edit 40423134_cp_w2_p.html</vh></v>
+<v t="1111.20160115113610.1"><vh>@edit 40423134_cp_w3_p.html</vh></v>
+<v t="1111.20160115113555.1"><vh>@edit 40423134_cp_w4_p.html</vh></v>
+<v t="1111.20160115113619.1"><vh>@edit 40423134_cp_w5_p.html</vh></v>
+<v t="1111.20160115113626.1"><vh>@edit 40423134_cp_w6_p.html</vh></v>
+<v t="1111.20160115113634.1"><vh>@edit 40423134_cp_w7_p.html</vh></v>
+<v t="1111.20160115113642.1"><vh>@edit 40423134_cp_w8_p.html</vh></v>
+<v t="1111.20160115113654.1"><vh>@edit 40423134_cp_w11_p.html</vh></v>
+<v t="1111.20160115113702.1"><vh>@edit 40423134_cp_w12_p.html</vh></v>
+<v t="1111.20160115113709.1"><vh>@edit 40423134_cp_w14_p.html</vh></v>
+<v t="1111.20160115113716.1"><vh>@edit 40423134_cp_w15_p.html</vh></v>
+<v t="1111.20160115113725.1"><vh>@edit 40423134_cp_w16  p.html</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20150913232631.1"></t>
